@@ -1,4 +1,4 @@
-<img width="432" height="56" alt="image" src="https://github.com/user-attachments/assets/4fb16741-805f-4093-996c-8f04716cacfa" /># MTA算法
+# MTA算法
 MTA 的全称是 Mutil-Touch Attribution（多触点归因），是指一次转化的功劳不再完全归因至用户转化前的某一个广告触点上，而是按照一定的权重分配至发生转化前被触达的多个触点上。
 DDA 的全称是 Data Driven Attribution（数据驱动的归因），是一种基于算法的多触点归因模型，主要通过算法或者模型预估来分析用户转化路径中，每个触点的存在或者顺序对转化的贡献。
 ## MTA/DDA 为什么好？
